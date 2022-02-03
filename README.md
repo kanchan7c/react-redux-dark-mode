@@ -1,3 +1,9 @@
+#This project houses simple showcase of Redux library. Global state management is displayed in user login and theme change function.
+
+##If you are wondering how you can create dark mode for your website, you can find the implemention under [./src/features/theme.js] & components are displayed under [./src/components]
+
+##Dark mode final touch is given in App.js component.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
